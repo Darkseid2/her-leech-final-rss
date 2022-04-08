@@ -13,7 +13,7 @@
 
 # heroku deploy button 2x if one not work/buffer try another
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/GabbarsinghTG/her-leech-final-rss) deploy button-1
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MaxxRider/Leech-Pro) deploy button-1
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) deploy button-2 
 
